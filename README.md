@@ -20,8 +20,10 @@ Her bir karar bu kararı vermek için kullanılan issue'ya, ve ilgili teknoloji 
 │   ├── Mesajlaşma Uygulamaları
 │   ├── Proje Takip ve Yönetimi
 │   └── Versiyon Kontrol             # Proje Geliştirmenin bir alt kategorisi, Versiyon Kontrol ile ilgili kararlar
+│       ├── README.md                # Versiyon Kontrol kategorisini açıklayan bir yazı
 │       ├── Git.md                   # Git kararını açıklayan bir yazı, ilgili issue ve deneyimli kişiler
 │       └── Uzak Depolama
+│           ├── README.md            # Uzak Depolama kategorisini açıklayan bir yazı
 │           └── Github
 │               ├── README.md        # Github kararını açıklayan bir yazı, ilgili issue ve deneyimli kişiler
 │               └── Student Pack.md  # Github ile ilgili ek bir döküman
