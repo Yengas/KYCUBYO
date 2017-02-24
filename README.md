@@ -3,16 +3,16 @@ Bu dökümantasyon KYCUBYO içinde kullanılacak olan araçları, editörleri, y
 
 Dökümantasyon içerisinde karar kılınan herşey issuelar ile takip edilip, ortak bir karar alındıktan sonra eklenmiştir. Burada bulunan herhangi bir karar ile ilgili sorunuz var ise, issue açarak takip edilebilir bir şekilde sorunuzu belirtebilirsinniz.
 
-## Projenin düzenlenmesi, ekleme yapılması
-Bu proje üzerinde verilen herhangi bir karar ile ilgili düzenleme yapmak veya yeni bir teknoloji eklemek isterseniz, ilk önce bir issue açmanız veya varolan bir issue'ya yorum eklemeniz gerekmektedir.
+## Dökümanın düzenlenmesi, ekleme yapılması
+Bu döküman üzerinde verilen herhangi bir karar ile ilgili düzenleme yapmak veya yeni bir teknoloji eklemek isterseniz, ilk önce bir issue açmanız veya varolan bir issue'ya yorum eklemeniz gerekmektedir.
 
-### Proje Düzeni
-Projede verilen her bir karar ve kullanılan teknoloji, klasör yapısı kullanarak kategorilendirilmiştir. Klasörler kategoriyi açıklayan bir README.md dosyası bulundurmak zorundadır. Eklemek istediğiniz karar ile ilgili ek döküman veya dosya(konfigürasyon vb.) bulundurmak isterseniz, bu karar için bir klasör oluşturup, karar ile ilgili detayları README.md dosyasında yazabilirsiniz.
+### Döküman Düzeni
+Dökümanda verilen her bir karar ve kullanılan teknoloji, klasör yapısı kullanarak kategorilendirilmiştir. Klasörler kategoriyi açıklayan bir README.md dosyası bulundurmak zorundadır. Eklemek istediğiniz karar ile ilgili ek döküman veya dosya(konfigürasyon vb.) bulundurmak isterseniz, bu karar için bir klasör oluşturup, karar ile ilgili detayları README.md dosyasında yazabilirsiniz.
 
 ### İçerik Düzeni
 Her bir karar bu kararı vermek için kullanılan issue'ya, ve ilgili teknoloji üzerinde deneyimli kişilere bir referans içermek zorundadır.
 
-### Örnek Proje Düzeni
+### Örnek Döküman Düzeni
 ```
 .
 ├── İşletim Sistemleri
@@ -30,5 +30,5 @@ Her bir karar bu kararı vermek için kullanılan issue'ya, ve ilgili teknoloji 
 ├── Yazılım Dilleri
 ├── Yazılım Geliştirme Araçları
 │   └── Editörler
-└── README.md                        # Bu projeyi açıklayan bir yazı ve projenin yönetimi/düzeni hakkında bilgiler
+└── README.md                        # Bu dökümanı açıklayan bir yazı ve dökümanın yönetimi/düzeni hakkında bilgiler
 ```
