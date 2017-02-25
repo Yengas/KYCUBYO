@@ -3,6 +3,7 @@ Git yazılım sektöründe en çok kullanılan kaynak kod yönetim sistemidir. V
 
 ## Kaynaklar
 Github'ı öğrenmek için kullanabileceğiniz Türkçe/Yabancı kaynaklar aşağıda listelenmiştir.
+- [Github Masaüstü Uygulaması ile Versiyon Kontrolü](https://gelecegiyazanlar.turkcell.com.tr/blog/github-ile-surum-kontrolu) [Türkçe] [Giriş]
 - [Git ve Github Kullanımı](https://medium.com/@emrullahluleci/git-ve-github-nas-l-kullan-l-r-7d3cc886b77e#.fx28ppf4o) [Türkçe] [Giriş]
 - [Try Git - Interaktif Tutorial](https://try.github.io/levels/1/challenges/1) [English] [Giriş]
 - [Git Workflow - Git'i akıllıca kullanmak](https://sandofsky.com/blog/git-workflow.html) [English] [Orta]
