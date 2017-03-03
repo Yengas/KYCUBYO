@@ -11,7 +11,7 @@ Jetbrains bazen çok kaynak kullanabilir. Bu durumda editörün bazı özellikle
 
 [Bu linki](https://www.jetbrains.com/idea/download/) kullanarak Jetbrains'in genel kullanım için sunduğu Intellij IDEA editörünün Ultimate versiyonunu indirebilirsiniz. Bu ücretli versiyon için, öğrenci hesabınızla nasıl bedava bir üyelik alabileceğinizi öğrenmek için [Öğrenci Hesabı](Öğrenci%20Hesabı.md) dökümanına göz atabilirsiniz.
 
-Ultimate Edition versiyonuna Python, Javascript, Ruby, Golang gibi bir çok dili Plugiin olarak indirip, tek bir editör üzerinden tüm bu dillerde yazılım yapmak mümkündür. Aynı zamanda kaynak kullanımı konusunda sıkıntı yaşayan arkadaşlarımız için önerdiğimiz Vim editörünü seven biriyseniz, Vim içinde mükemmel bir intellij IDEA plugini bulunmaktadır, göz atmanızı öneririz.
+Ultimate Edition versiyonuna Python, Javascript, Ruby, Golang gibi bir çok dili Plugin olarak indirip, tek bir editör üzerinden tüm bu dillerde yazılım yapmak mümkündür. Aynı zamanda kaynak kullanımı konusunda sıkıntı yaşayan arkadaşlarımız için önerdiğimiz Vim editörünü seven biriyseniz, Vim içinde mükemmel bir intellij IDEA plugini bulunmaktadır, göz atmanızı öneririz.
 
 
 ## Kaynaklar
