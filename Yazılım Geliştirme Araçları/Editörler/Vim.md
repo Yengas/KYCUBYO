@@ -1,5 +1,5 @@
 # Vim
-Vim uzun yıllardır kullanması zor fakat avantajlı olarak bilinen bir text editörüdür. İlkel versiyonu `Vi`, bir çok Linux dağıtımı ile birlikte varsayılan editörlerden biri olarak gelmektedir. Öğrenmesi biraz zaman alsada, kullanmaya alıştıktan sonra sağladaığı hız ve performans göz ardı edilemeyecek derecede yüksektir.
+Vim uzun yıllardır kullanması zor fakat avantajlı olarak bilinen bir text editörüdür. İlkel versiyonu `Vi`, bir çok Linux dağıtımı ile birlikte varsayılan editörlerden biri olarak gelmektedir. Öğrenmesi biraz zaman alsada, kullanmaya alıştıktan sonra sağladığı hız ve performans göz ardı edilemeyecek derecede yüksektir.
 
 Bir çok plugin seçeneği ile birlikte, her türlü çalışma ortamına olanak sağlamaktadır. Plugin konusunda aşırı bir ekleme yapmadığınız sürece, çalışabileceğiniz en lightweight editörlerden biridir. Çift çekirdekli düşük seviye bir laptopda bile programlama yapar iken saçlarınızı yolmamanızı sağlayabilir.
 
