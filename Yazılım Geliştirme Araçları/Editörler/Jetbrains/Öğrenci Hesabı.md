@@ -1,0 +1,2 @@
+# Öğrenci Hesabı
+Jetbrains sitesinde [bu adresi](https://www.jetbrains.com/shop/eform/students) kullanarak erişebileceğiniz sayfada, öğrenci hesabınız ile kayıt olarak bir çok Jetbrains ürününün profesyonel versiyonuna ücretsiz sahip olabilirsiniz. Tüm topluluk üyelerinin bu fırsatdan faydalanmaları beklenmektedir.
