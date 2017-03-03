@@ -1,0 +1,28 @@
+box: debian
+build:
+  steps:
+    - install-packages:
+      packages: git ssh-client wget python
+    - add-to-known_hosts:
+      hostname: github.com
+      fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
+    - script:
+      name: Download and run toc.py
+      code: |
+        wget "https://gist.githubusercontent.com/Yengas/609d2f76c175bfddba9ba9e39d6512a3/raw/d5ad099665cc38432761e0846f09d2bfdb8e0010/toc.py" -O toc.py
+        python toc.py --readme README.md > README.md.tmp
+        mv README.md.tmp README.md
+        rm toc.py
+    - script:
+      name: Push the changes to github.
+      code: |
+        git checkout origin/master
+        REMOTE="https://$GIT_TOKEN@github.com/Yengas/KYCUBYO.git"
+        COMMIT_MSG="Automated TOC generation."
+        # Exit if the commit is the wercker build result. 
+        if [[ $(git log --format=%B -n 1) == "$COMMIT_MSG" ]]; then exit; fi
+        git config user.email "yigitcan@hotmail.com.tr"
+        git config user.name "Yengas"
+        git add .
+        git commit -m "$COMMIT_MSG"
+        git push "$REMOTE" HEAD:master
