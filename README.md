@@ -8,10 +8,10 @@ Bu proje üzerinde [haftalık olarak yaptıklarımız](https://github.com/Yengas
 ## Döküman İçerikleri
 [//]: # (TOCSTART)
 - Proje Geliştirme
-	- [Proje Takip ve Yönetimi](./Proje Geliştirme/Proje Takip ve Yönetimi)
-		- [Github Issues](./Proje Geliştirme/Proje Takip ve Yönetimi/Github Issues.md)
 	- [Mesajlaşma Uygulamaları](./Proje Geliştirme/Mesajlaşma Uygulamaları)
 		- [Slack](./Proje Geliştirme/Mesajlaşma Uygulamaları/Slack.md)
+	- [Proje Takip ve Yönetimi](./Proje Geliştirme/Proje Takip ve Yönetimi)
+		- [Github Issues](./Proje Geliştirme/Proje Takip ve Yönetimi/Github Issues.md)
 	- [Versiyon Kontrol](./Proje Geliştirme/Versiyon Kontrol)
 		- [Uzak Depolama](./Proje Geliştirme/Versiyon Kontrol/Uzak Depolama)
 			- [Github](./Proje Geliştirme/Versiyon Kontrol/Uzak Depolama/Github)
@@ -19,12 +19,12 @@ Bu proje üzerinde [haftalık olarak yaptıklarımız](https://github.com/Yengas
 		- [Git](./Proje Geliştirme/Versiyon Kontrol/Git.md)
 - Yazılım Geliştirme Araçları
 	- [Editörler](./Yazılım Geliştirme Araçları/Editörler)
-		- [Vim](./Yazılım Geliştirme Araçları/Editörler/Vim.md)
 		- [Jetbrains](./Yazılım Geliştirme Araçları/Editörler/Jetbrains)
 			- [Öğrenci Hesabı](./Yazılım Geliştirme Araçları/Editörler/Jetbrains/Öğrenci Hesabı.md)
+		- [Vim](./Yazılım Geliştirme Araçları/Editörler/Vim.md)
 	- [Sanallaştırma ve Konteyner Teknolojileri](./Yazılım Geliştirme Araçları/Sanallaştırma ve Konteyner Teknolojileri)
-		- [Virtualbox](./Yazılım Geliştirme Araçları/Sanallaştırma ve Konteyner Teknolojileri/Virtualbox.md)
 		- [Docker](./Yazılım Geliştirme Araçları/Sanallaştırma ve Konteyner Teknolojileri/Docker.md)
+		- [Virtualbox](./Yazılım Geliştirme Araçları/Sanallaştırma ve Konteyner Teknolojileri/Virtualbox.md)
 [//]: # (TOCEND)
 
 ## Dökümanın düzenlenmesi, ekleme yapılması
@@ -56,4 +56,5 @@ Her bir karar bu kararı vermek için kullanılan issue'ya, ve ilgili teknoloji 
 │   └── Editörler
 └── README.md                        # Bu dökümanı açıklayan bir yazı ve dökümanın yönetimi/düzeni hakkında bilgiler
 ```
+
 
