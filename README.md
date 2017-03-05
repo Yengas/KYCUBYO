@@ -57,4 +57,3 @@ Her bir karar bu kararı vermek için kullanılan issue'ya, ve ilgili teknoloji 
 └── README.md                        # Bu dökümanı açıklayan bir yazı ve dökümanın yönetimi/düzeni hakkında bilgiler
 ```
 
-

@@ -9,7 +9,7 @@ build:
     - script:
       name: Download and run toc.py
       code: |
-        wget "https://gist.githubusercontent.com/Yengas/609d2f76c175bfddba9ba9e39d6512a3/raw/7f08233b6a0f8c6671dafbf4f79b4f36f26267da/toc.py" -O toc.py
+        wget "https://gist.githubusercontent.com/Yengas/609d2f76c175bfddba9ba9e39d6512a3/raw/c7be819212bc17d8637f4310a459253a7c5956e3/toc.py" -O toc.py
         python toc.py --readme README.md > README.md.tmp
         mv README.md.tmp README.md
         rm toc.py
