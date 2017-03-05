@@ -1,7 +1,7 @@
 # KYCUBYO
 Bu dökümantasyon KYCUBYO içinde kullanılacak olan araçları, editörleri, yazılım dillerini, kütüphaneleri Türkçe olarak açıklamak ve KYCUBYO içinde bu teknolojiler ile ilgili kimlerin deneyimli olduğunu belirtmek için yazılmıştır.
 
-Dökümantasyon içerisinde karar kılınan herşey [issuelar](https://github.com/Yengas/KYCUBYO/issues?utf8=%E2%9C%93&q=) ile takip edilip, ortak bir karar alındıktan sonra eklenmiştir. Burada bulunan herhangi bir karar ile ilgili sorunuz var ise, veya deneyimli kişiler listesine eklenmek istiyorsanız, issue açarak takip edilebilir bir şekilde isteğinizi belirtebilirsinniz.
+Dökümantasyon içerisinde karar kılınan her şey [issuelar](https://github.com/Yengas/KYCUBYO/issues?utf8=%E2%9C%93&q=) ile takip edilip, ortak bir karar alındıktan sonra eklenmiştir. Burada bulunan herhangi bir karar ile ilgili sorunuz var ise, veya deneyimli kişiler listesine eklenmek istiyorsanız, issue açarak takip edilebilir bir şekilde isteğinizi belirtebilirsiniz.
 
 Bu proje üzerinde [haftalık olarak yaptıklarımız](https://github.com/Yengas/KYCUBYO/issues?utf8=%E2%9C%93&q=label%3A%22Haftan%C4%B1n%20%C3%96zeti%22%20)'ın özeti ve kulübe yeni katılan arkadaşları yönlendirmek için rehber niteliğinde dökümanlarda bulabilirsiniz.
 
