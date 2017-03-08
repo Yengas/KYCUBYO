@@ -12,6 +12,8 @@ Bu proje üzerinde [haftalık olarak yaptıklarımız](https://github.com/Yengas
 		- [Slack](./Proje Geliştirme/Mesajlaşma Uygulamaları/Slack.md)
 	- [Proje Takip ve Yönetimi](./Proje Geliştirme/Proje Takip ve Yönetimi)
 		- [Github Issues](./Proje Geliştirme/Proje Takip ve Yönetimi/Github Issues.md)
+	- [Proje Yayınlama](./Proje Geliştirme/Proje Yayınlama)
+		- [DigitalOcean](./Proje Geliştirme/Proje Yayınlama/DigitalOcean.md)
 	- [Versiyon Kontrol](./Proje Geliştirme/Versiyon Kontrol)
 		- [Uzak Depolama](./Proje Geliştirme/Versiyon Kontrol/Uzak Depolama)
 			- [Github](./Proje Geliştirme/Versiyon Kontrol/Uzak Depolama/Github)
