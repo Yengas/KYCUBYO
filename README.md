@@ -7,26 +7,28 @@ Bu proje üzerinde [haftalık olarak yaptıklarımız](https://github.com/Yengas
 
 ## Döküman İçerikleri
 [//]: # (TOCSTART)
+
 - Proje Geliştirme
-	- [Mesajlaşma Uygulamaları](./Proje Geliştirme/Mesajlaşma Uygulamaları)
-		- [Slack](./Proje Geliştirme/Mesajlaşma Uygulamaları/Slack.md)
-	- [Proje Takip ve Yönetimi](./Proje Geliştirme/Proje Takip ve Yönetimi)
-		- [Github Issues](./Proje Geliştirme/Proje Takip ve Yönetimi/Github Issues.md)
-	- [Proje Yayınlama](./Proje Geliştirme/Proje Yayınlama)
-		- [DigitalOcean](./Proje Geliştirme/Proje Yayınlama/DigitalOcean.md)
-	- [Versiyon Kontrol](./Proje Geliştirme/Versiyon Kontrol)
-		- [Uzak Depolama](./Proje Geliştirme/Versiyon Kontrol/Uzak Depolama)
-			- [Github](./Proje Geliştirme/Versiyon Kontrol/Uzak Depolama/Github)
-				- [Student Pack](./Proje Geliştirme/Versiyon Kontrol/Uzak Depolama/Github/Student Pack.md)
-		- [Git](./Proje Geliştirme/Versiyon Kontrol/Git.md)
+	- [Mesajlaşma Uygulamaları](./Proje%20Geli%C5%9Ftirme/Mesajla%C5%9Fma%20Uygulamalar%C4%B1)
+		- [Slack](./Proje%20Geli%C5%9Ftirme/Mesajla%C5%9Fma%20Uygulamalar%C4%B1/Slack.md)
+	- [Proje Takip ve Yönetimi](./Proje%20Geli%C5%9Ftirme/Proje%20Takip%20ve%20Y%C3%B6netimi)
+		- [Github Issues](./Proje%20Geli%C5%9Ftirme/Proje%20Takip%20ve%20Y%C3%B6netimi/Github%20Issues.md)
+	- [Proje Yayınlama](./Proje%20Geli%C5%9Ftirme/Proje%20Yay%C4%B1nlama)
+		- [DigitalOcean](./Proje%20Geli%C5%9Ftirme/Proje%20Yay%C4%B1nlama/DigitalOcean.md)
+	- [Versiyon Kontrol](./Proje%20Geli%C5%9Ftirme/Versiyon%20Kontrol)
+		- [Uzak Depolama](./Proje%20Geli%C5%9Ftirme/Versiyon%20Kontrol/Uzak%20Depolama)
+			- [Github](./Proje%20Geli%C5%9Ftirme/Versiyon%20Kontrol/Uzak%20Depolama/Github)
+				- [Student Pack](./Proje%20Geli%C5%9Ftirme/Versiyon%20Kontrol/Uzak%20Depolama/Github/Student%20Pack.md)
+		- [Git](./Proje%20Geli%C5%9Ftirme/Versiyon%20Kontrol/Git.md)
 - Yazılım Geliştirme Araçları
-	- [Editörler](./Yazılım Geliştirme Araçları/Editörler)
-		- [Jetbrains](./Yazılım Geliştirme Araçları/Editörler/Jetbrains)
-			- [Öğrenci Hesabı](./Yazılım Geliştirme Araçları/Editörler/Jetbrains/Öğrenci Hesabı.md)
-		- [Vim](./Yazılım Geliştirme Araçları/Editörler/Vim.md)
-	- [Sanallaştırma ve Konteyner Teknolojileri](./Yazılım Geliştirme Araçları/Sanallaştırma ve Konteyner Teknolojileri)
-		- [Docker](./Yazılım Geliştirme Araçları/Sanallaştırma ve Konteyner Teknolojileri/Docker.md)
-		- [Virtualbox](./Yazılım Geliştirme Araçları/Sanallaştırma ve Konteyner Teknolojileri/Virtualbox.md)
+	- [Editörler](./Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirme%20Ara%C3%A7lar%C4%B1/Edit%C3%B6rler)
+		- [Jetbrains](./Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirme%20Ara%C3%A7lar%C4%B1/Edit%C3%B6rler/Jetbrains)
+			- [Öğrenci Hesabı](./Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirme%20Ara%C3%A7lar%C4%B1/Edit%C3%B6rler/Jetbrains/%C3%96%C4%9Frenci%20Hesab%C4%B1.md)
+		- [Vim](./Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirme%20Ara%C3%A7lar%C4%B1/Edit%C3%B6rler/Vim.md)
+	- [Sanallaştırma ve Konteyner Teknolojileri](./Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirme%20Ara%C3%A7lar%C4%B1/Sanalla%C5%9Ft%C4%B1rma%20ve%20Konteyner%20Teknolojileri)
+		- [Docker](./Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirme%20Ara%C3%A7lar%C4%B1/Sanalla%C5%9Ft%C4%B1rma%20ve%20Konteyner%20Teknolojileri/Docker.md)
+		- [Virtualbox](./Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirme%20Ara%C3%A7lar%C4%B1/Sanalla%C5%9Ft%C4%B1rma%20ve%20Konteyner%20Teknolojileri/Virtualbox.md)
+
 [//]: # (TOCEND)
 
 ## Dökümanın düzenlenmesi, ekleme yapılması
